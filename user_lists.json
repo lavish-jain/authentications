@@ -1,0 +1,30 @@
+[
+    {
+        "username": "test1",
+        "password": "test1",
+        "first_name": "John",
+        "last_name": "Doe",
+        "age": "40"
+    },
+    {
+        "username": "test2",
+        "password": "test2",
+        "first_name": "Willaim",
+        "last_name": "David",
+        "age": "23"
+    },
+    {
+        "username": "test3",
+        "password": "test3",
+        "first_name": "Kyle",
+        "last_name": "Grahams",
+        "age": "32"
+    },
+    {
+        "username": "test4",
+        "password": "test4",
+        "first_name": "Peter",
+        "last_name": "Parker",
+        "age": "19"
+    }
+]
